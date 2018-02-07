@@ -13,8 +13,8 @@ title: 可持续演化的智能化软件理论、方法和技术
 subtitle: "国家重点研发计划“云计算和大数据”重点专项"
 email: growinware@gmail.com
 name: 南京大学
-description: >
-  Under construction.
+description:  
+#  Under construction.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
